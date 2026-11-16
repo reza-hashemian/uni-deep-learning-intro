@@ -27,8 +27,8 @@ pip install numpy matplotlib torch torchvision jupyter
 ## اجرا
 
 ```bash
-git clone <آدرس-ریپو>
-cd <نام-پوشه>
+git clone https://github.com/reza-hashemian/uni-deep-learning-intro.git
+cd uni-deep-learning-intro
 jupyter lab
 ```
 
