@@ -1,0 +1,13 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.virtual_documents/
+.DS_Store
+
+# Downloaded datasets (MNIST is fetched automatically by torchvision)
+data/
+
+# Model checkpoints
+*.pt
+*.pth
